@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2024-09-17T18:08:49.702Z",
+  "created_by": "lwjameson",
+  "title": "Interview 1",
+  "updated_at": "2024-09-17T18:08:49.702Z",
+  "updated_by": "lwjameson",
+  "parent": "7e9a86ea-76a0-4d01-ba3d-03f9f92cad51",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "9d65d563-f096-42bb-8807-008fdf72427e"
+  }
+}
